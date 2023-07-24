@@ -1,2 +1,2 @@
 # parallel_algorithms
-С##
+С##, Python
